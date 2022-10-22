@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
+global.mygit = 'https://github.com/Yantogntng'
+global.myyt = 'https://youtube.com/c/RENZ MD'
+global.myytv = 'https://youtube.com/channel/UCYOpTOWfpGun22fv75SaoJQ'
+global.mygc = "https://chat.whatsapp.com/JvKb2Wjt6Y2BaKiog61HqQ"
+global.botname = 'RENZ BOTZ'
+global.akulaku = 'Bot By Renz'
+global.ytname = 'YT RENZ MD'
 
 
 let file = require.resolve(__filename)
